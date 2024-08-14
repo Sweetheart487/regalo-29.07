@@ -1,0 +1,28 @@
+h1{
+    color: darkred;
+}
+u{
+    color: red;
+}
+mark{
+    color: blue;
+}
+b
+{
+    color: darkslateblue;
+}
+li{
+    color: seagreen;
+}
+body{
+    background-image: url(img/IMAGEN.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3{
+    color: lawngreen;
+}
+div{
+    height: 250;
+    width: 300;
+}
